@@ -1,3 +1,5 @@
 (sym_lib_table
-  (lib (name gd25q16ct)(type Legacy)(uri ${KIPRJMOD}/gd25q16ct.lib)(options "")(descr ""))
+  (version 7)
+  (lib (name "gd25q16ct")(type "Legacy")(uri "${KIPRJMOD}/gd25q16ct.lib")(options "")(descr ""))
+  (lib (name "Microcontroller-rescue")(type "KiCad")(uri "${KIPRJMOD}/Microcontroller-rescue.kicad_sym")(options "")(descr ""))
 )
